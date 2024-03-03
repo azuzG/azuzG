@@ -1,3 +1,2 @@
 sabaka
-[logo](![preview_foto14_13_10_2017](https://github.com/azuzG/azuzG/assets/151399562/a9446f86-6649-4833-b422-aa3c2bece077)
- "foto")
+![alt text](https://masterpiecer-images.s3.yandex.net/ca0bdcaf6f7b11ee8c902aacdc0146ad:upscaled)
